@@ -83,32 +83,34 @@ We have overridden the default Django Admin behavior:
 
 1.  **Home Page:** Showing the product grid.
 
-  <img width="1918" height="968" alt="image" src="https://github.com/user-attachments/assets/4c7f33ae-9b0f-4a1e-8b17-c394c4b87b0f" />
+  <img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/41594727-bd9b-46fe-88e6-c60e83765e42" />
 
-  <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/dc3bb126-cbe2-484f-b5f3-197c37b0d14a" />
+
+  <img width="1918" height="964" alt="image" src="https://github.com/user-attachments/assets/0fa6f329-53a6-4014-a58e-e7c4431f5de2" />
+
 
 
 2.  **Product Detail:** Showing the description and "Add to Cart" button.
 
-  <img width="1916" height="973" alt="image" src="https://github.com/user-attachments/assets/420bcf78-05c2-4e38-a1fe-6fdecb7bdb05" />
+  <img width="1901" height="907" alt="image" src="https://github.com/user-attachments/assets/c09154a8-9e66-4b47-ae5b-812249439828" />
 
-  
+
 3.  **Cart Page:** Showing quantity controls (+/-).
 
-  <img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/5d7f319a-215c-417b-9159-dec049f6f064" />
+  <img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/38b0f612-b2e8-4ef8-ac11-075ef0d18d6a" />
 
 4.  **Checkout Form:** Showing Name, Phone, and Address fields.
 
-   <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/ab28dbcc-a1cd-43b7-a7d7-f2e61aabdf13" />
+   <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/bc1ab69d-4ec0-4318-b65e-d90876103c47" />
 
 5.  **Success Page:** Showing "Order Placed Successfully".
 
-   <img width="1915" height="970" alt="image" src="https://github.com/user-attachments/assets/4d882784-b7ce-4f36-9265-647fe0223d62" />
+   <img width="1916" height="964" alt="image" src="https://github.com/user-attachments/assets/e3a98b44-c6aa-4819-bbad-2b6fb715653e" />
 
-  
 6.  **Admin Panel:** Showing the "Products Ordered" column.
 
-   <img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/bd60914d-8130-4650-bfba-0e72a4abca23" />
+   <img width="1917" height="969" alt="image" src="https://github.com/user-attachments/assets/b0a4d5e5-3cb7-40a8-8594-8db4c75f2797" />
+
 
 
 ---
@@ -135,7 +137,13 @@ We have overridden the default Django Admin behavior:
 
 ---
 
-## **12. CONCLUSION**
+## **12.PROJECT ACCESS CREDENTIALS**
+
+<img width="1476" height="596" alt="image" src="https://github.com/user-attachments/assets/10391318-471a-43b3-9f14-584675ce0ae9" />
+
+---
+
+## **13. CONCLUSION**
 The **E-STORE** project is a successful implementation of a data-driven web application. It demonstrates the power of Python and Django in solving real-world business problems through efficient database management and a user-centric design approach.
 
 ---
