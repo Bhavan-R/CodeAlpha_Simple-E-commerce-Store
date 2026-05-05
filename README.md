@@ -108,7 +108,7 @@ We have overridden the default Django Admin behavior:
   
 6.  **Admin Panel:** Showing the "Products Ordered" column.
 
-   
+   <img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/bd60914d-8130-4650-bfba-0e72a4abca23" />
 
 
 ---
@@ -129,9 +129,14 @@ We have overridden the default Django Admin behavior:
 
 ---
 
-## **11. CONCLUSION**
+## **11.PROJECT ACCESS CREDENTIALS**
+
+<img width="1729" height="741" alt="image" src="https://github.com/user-attachments/assets/71f8cccc-2c88-4c2d-8e8a-89d21c069743" />
+
+---
+
+## **12. CONCLUSION**
 The **E-STORE** project is a successful implementation of a data-driven web application. It demonstrates the power of Python and Django in solving real-world business problems through efficient database management and a user-centric design approach.
 
 ---
 
-Machi, idhu thaan **"The Ultimate Report"**. Idhu unga project-ah oru commercial-level software maari kaattum. All the very best, thalaiva! 🚀🔥💪
