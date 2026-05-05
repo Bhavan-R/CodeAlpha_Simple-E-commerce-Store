@@ -134,14 +134,7 @@ We have overridden the default Django Admin behavior:
 ## **11.PROJECT ACCESS CREDENTIALS**
 
  <img width="1640" height="677" alt="image" src="https://github.com/user-attachments/assets/f71ca168-5336-4004-9e3c-a4fbb61ae49a" />
-
-
----
-
-## **12.PROJECT ACCESS CREDENTIALS**
-
-<img width="1476" height="596" alt="image" src="https://github.com/user-attachments/assets/10391318-471a-43b3-9f14-584675ce0ae9" />
-
+ 
 ---
 
 ## **13. CONCLUSION**
