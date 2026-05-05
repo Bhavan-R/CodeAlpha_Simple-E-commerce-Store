@@ -5,7 +5,6 @@ def home(request):
     products = Product.objects.all()
     return render(request, 'home.html', {'products': products})
 
-# INTHA FUNCTION THAN MISS AAGIDUCHI:
 def product_detail(request, product_id):
     product = get_object_or_404(Product, id=product_id)
     return render(request, 'product.html', {'product': product})
